@@ -12,6 +12,7 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.motion.leap-nvim" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.helm" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
   { import = "astrocommunity.quickfix.nvim-bqf" },
