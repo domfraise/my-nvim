@@ -80,6 +80,9 @@ return {
       i = {
         ["<M-3>"] = { "#", noremap = true },
       },
+      x = {
+        ["p"] = { '"_dP', desc = "Paste without yanking replaced text" },
+      },
       n = {
         -- second key is the lefthand side of the map
 
